@@ -40,13 +40,13 @@ jobs:
       - name: Show result
         run: |
           echo "Generated file:"
-          cat foreign-android-apps/all-packages.yml
+          cat foreign-android-apps/include-android-apps-tun.yml
 
       - name: Commit file
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add foreign-android-apps/all-packages.yml
+          git add foreign-android-apps/include-android-apps-tun.yml
           git commit -m "Update package YAML ruleset" || exit 0
           git push
