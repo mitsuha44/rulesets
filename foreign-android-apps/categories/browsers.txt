@@ -6,3 +6,5 @@ com.duckduckgo.mobile.android
 org.torproject.torbrowser
 com.sec.android.app.sbrowser
 com.ecosia.android
+app.vanadium.browser
+app.vanadium.webview
