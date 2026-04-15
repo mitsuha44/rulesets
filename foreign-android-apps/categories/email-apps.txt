@@ -1,0 +1,9 @@
+de.tutao.tutanota
+ch.protonmail.android
+com.yahoo.mobile.client.android.mail
+com.google.android.gm
+com.microsoft.office.outlook
+de.web.mobile.android.mail
+net.thunderbird.android
+de.gmx.mobile.android.mail
+de.eclipso.android
