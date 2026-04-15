@@ -8,10 +8,13 @@ include-package:
 - com.android.chrome
 - com.anthropic.claude
 - com.brave.browser
+- com.callpod.android_apps.keeper
+- com.dashlane
 - com.disney.disneyplus
 - com.duckduckgo.mobile.android
 - com.ecosia.android
 - com.google.android.apps.bard
+- com.google.android.apps.credentialmanager
 - com.google.android.apps.youtube.creator
 - com.google.android.apps.youtube.kids
 - com.google.android.apps.youtube.music
@@ -21,9 +24,11 @@ include-package:
 - com.instagram.android
 - com.instagram.barcelona
 - com.kinopub
+- com.lastpass.lpandroid
 - com.microsoft.office.officehubrow
 - com.microsoft.office.outlook
 - com.netflix.mediaclient
+- com.onepassword.android
 - com.openai.chatgpt
 - com.reddit.frontpage
 - com.sec.android.app.sbrowser
@@ -44,6 +49,7 @@ include-package:
 - io.ente.photos.independent
 - io.filen.app
 - io.meduza.meduza
+- me.proton.android.drive
 - nekox.messenger.broken
 - net.thunderbird.android
 - org.mozilla.firefox
@@ -51,3 +57,4 @@ include-package:
 - org.telegram.messenger.web
 - org.thoughtcrime.securesms
 - org.torproject.torbrowser
+- proton.android.pass
