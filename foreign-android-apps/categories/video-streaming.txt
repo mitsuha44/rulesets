@@ -6,3 +6,4 @@ com.netflix.mediaclient
 com.amazon.avod.thirdpartyclient
 com.wbd.stream
 com.disney.disneyplus
+com.kinopub
