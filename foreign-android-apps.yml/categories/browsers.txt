@@ -1,0 +1,8 @@
+com.android.chrome
+com.brave.browser
+com.vivaldi.browser
+org.mozilla.firefox
+com.duckduckgo.mobile.android
+org.torproject.torbrowser
+com.sec.android.app.sbrowser
+com.ecosia.android

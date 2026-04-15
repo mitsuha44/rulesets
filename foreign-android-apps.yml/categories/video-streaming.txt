@@ -1,0 +1,8 @@
+com.google.android.youtube
+com.google.android.apps.youtube.kids
+com.google.android.apps.youtube.creator
+com.google.android.youtube.tv
+com.netflix.mediaclient
+com.amazon.avod.thirdpartyclient
+com.wbd.stream
+com.disney.disneyplus

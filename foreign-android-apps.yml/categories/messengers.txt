@@ -1,0 +1,5 @@
+org.telegram.messenger
+com.whatsapp
+com.whatsapp.w4b
+org.thoughtcrime.securesms
+com.viber.voip

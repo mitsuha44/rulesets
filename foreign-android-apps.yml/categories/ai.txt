@@ -1,0 +1,6 @@
+com.openai.chatgpt
+com.anthropic.claude
+com.google.android.apps.bard
+ai.x.grok
+ai.perplexity.app.android
+com.microsoft.office.officehubrow

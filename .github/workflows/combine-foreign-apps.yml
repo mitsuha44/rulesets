@@ -1,0 +1,51 @@
+name: Combine package lists
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Combine package files
+        run: |
+          mkdir -p output
+          > output/raw.txt
+
+          # collect all txt files from your folder
+          find foreign-apps/categories -name "*.txt" -exec cat {} + > output/raw.txt
+
+          # clean + deduplicate
+          cat output/raw.txt \
+            | sed 's/\r//' \
+            | sed '/^\s*$/d' \
+            | sort \
+            | uniq \
+            > output/clean.txt
+
+          # add required header
+          {
+            echo "include-package:"
+            cat output/clean.txt
+          } > all-packages.txt
+
+      - name: Show stats
+        run: |
+          echo "Total packages:"
+          wc -l all-packages.txt
+
+      - name: Commit combined file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add all-packages.txt
+
+          git commit -m "Update combined package list" || echo "No changes"
+
+          git push
