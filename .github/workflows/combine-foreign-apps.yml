@@ -18,7 +18,7 @@ jobs:
           > output/raw.txt
 
           # collect all txt files from your folder
-          find foreign-apps/categories -name "*.txt" -exec cat {} + > output/raw.txt
+          find foreign-android-apps/categories -name "*.txt" -exec cat {} + > output/raw.txt
 
           # clean + deduplicate
           cat output/raw.txt \
