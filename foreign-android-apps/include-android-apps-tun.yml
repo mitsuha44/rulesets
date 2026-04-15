@@ -1,6 +1,9 @@
 include-package:
 - ai.perplexity.app.android
 - ai.x.grok
+- app.vanadium.browser
+- app.vanadium.webview
+- ch.protonmail.android
 - com.amazon.avod.thirdpartyclient
 - com.android.chrome
 - com.anthropic.claude
@@ -12,11 +15,14 @@ include-package:
 - com.google.android.apps.youtube.creator
 - com.google.android.apps.youtube.kids
 - com.google.android.apps.youtube.music
+- com.google.android.gm
 - com.google.android.youtube
 - com.google.android.youtube.tv
 - com.instagram.android
 - com.instagram.barcelona
+- com.kinopub
 - com.microsoft.office.officehubrow
+- com.microsoft.office.outlook
 - com.netflix.mediaclient
 - com.openai.chatgpt
 - com.reddit.frontpage
@@ -28,9 +34,20 @@ include-package:
 - com.wbd.stream
 - com.whatsapp
 - com.whatsapp.w4b
+- com.x8bit.bitwarden
+- com.yahoo.mobile.client.android.mail
 - com.zhiliaoapp.musically
+- de.eclipso.android
+- de.gmx.mobile.android.mail
+- de.tutao.tutanota
+- de.web.mobile.android.mail
+- io.ente.photos.independent
+- io.filen.app
 - io.meduza.meduza
+- nekox.messenger.broken
+- net.thunderbird.android
 - org.mozilla.firefox
 - org.telegram.messenger
+- org.telegram.messenger.web
 - org.thoughtcrime.securesms
 - org.torproject.torbrowser
