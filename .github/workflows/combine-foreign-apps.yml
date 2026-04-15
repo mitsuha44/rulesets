@@ -3,6 +3,8 @@ name: Combine package lists
 on:
   push:
     branches: ["main"]
+    paths:
+      - "foreign-android-apps/categories/**"
 
 permissions:
   contents: write
