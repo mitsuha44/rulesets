@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Combine package files
+      - name: Generate output yml file
         run: |
           mkdir -p output
           > output/raw.txt
@@ -31,24 +31,22 @@ jobs:
             | uniq \
             > output/clean.txt
 
-          # add required header
+          # Build yml
           {
             echo "include-package:"
-            cat output/clean.txt
-          } > all-packages.txt
+            sed 's/^/- /' output/clean.txt
+          } > foreign-android-apps/include-android-apps-tun.yml
 
-      - name: Show stats
+      - name: Show result
         run: |
-          echo "Total packages:"
-          wc -l all-packages.txt
+          echo "Generated file:"
+          cat foreign-android-apps/all-packages.yml
 
-      - name: Commit combined file
+      - name: Commit file
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add all-packages.txt
-
-          git commit -m "Update combined package list" || echo "No changes"
-
+          git add foreign-android-apps/all-packages.yml
+          git commit -m "Update package YAML ruleset" || exit 0
           git push
