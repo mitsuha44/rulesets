@@ -50,5 +50,5 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add foreign-android-apps/include-android-apps-tun.yml
-          git commit -m "Update package YAML ruleset" || exit 0
+          git commit -m "Update output file" || exit 0
           git push
