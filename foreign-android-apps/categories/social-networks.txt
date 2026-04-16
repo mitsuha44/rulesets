@@ -3,3 +3,4 @@ com.instagram.barcelona
 com.zhiliaoapp.musically
 com.reddit.frontpage
 com.twitter.android
+com.discord
