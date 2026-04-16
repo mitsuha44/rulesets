@@ -5,3 +5,4 @@ com.zhiliaoapp.musically.go
 com.reddit.frontpage
 com.twitter.android
 com.discord
+com.snapchat.android
