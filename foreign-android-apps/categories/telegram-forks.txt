@@ -1,1 +1,2 @@
 nekox.messenger.broken
+org.thunderdog.challegram
