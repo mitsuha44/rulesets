@@ -1,0 +1,6 @@
+ch.protonvpn.android
+net.mullvad.mullvadvpn
+com.nordvpn.android
+com.expressvpn.vpn
+com.surfshark.vpnclient.android
+com.windscribe.vpn
