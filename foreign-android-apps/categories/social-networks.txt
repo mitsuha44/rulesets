@@ -1,6 +1,7 @@
 com.instagram.android
 com.instagram.barcelona
 com.zhiliaoapp.musically
+com.zhiliaoapp.musically.go
 com.reddit.frontpage
 com.twitter.android
 com.discord
