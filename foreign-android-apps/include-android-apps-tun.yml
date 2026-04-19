@@ -41,6 +41,7 @@ include-package:
 - com.snapchat.android
 - com.spotify.music
 - com.surfshark.vpnclient.android
+- com.tinder
 - com.twitter.android
 - com.viber.voip
 - com.vivaldi.browser
