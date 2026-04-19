@@ -1,1 +1,2 @@
 com.roblox.client
+com.supercell.brawlstars
