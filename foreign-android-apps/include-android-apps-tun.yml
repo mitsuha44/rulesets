@@ -66,6 +66,7 @@ include-package:
 - io.meduza.meduza
 - it.belloworld.mercurygram
 - me.proton.android.drive
+- momo.gram
 - nekox.messenger.broken
 - net.mullvad.mullvadvpn
 - net.thunderbird.android
