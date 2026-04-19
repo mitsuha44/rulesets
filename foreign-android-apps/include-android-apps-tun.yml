@@ -8,6 +8,7 @@ include-package:
 - com.amazon.avod.thirdpartyclient
 - com.android.chrome
 - com.anthropic.claude
+- com.aspiro.tidal
 - com.brave.browser
 - com.callpod.android_apps.keeper
 - com.dashlane
@@ -58,6 +59,7 @@ include-package:
 - de.spiegel.android.app.spon
 - de.tutao.tutanota
 - de.web.mobile.android.mail
+- deezer.android.app
 - io.ente.photos.independent
 - io.filen.app
 - io.meduza.meduza
