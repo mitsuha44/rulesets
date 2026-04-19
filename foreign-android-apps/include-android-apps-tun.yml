@@ -60,6 +60,7 @@ include-package:
 - io.ente.photos.independent
 - io.filen.app
 - io.meduza.meduza
+- it.belloworld.mercurygram
 - me.proton.android.drive
 - nekox.messenger.broken
 - net.mullvad.mullvadvpn
