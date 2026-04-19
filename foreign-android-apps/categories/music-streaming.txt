@@ -1,2 +1,4 @@
 com.google.android.apps.youtube.music
 com.spotify.music
+com.aspiro.tidal
+deezer.android.app
