@@ -1,2 +1,3 @@
 nekox.messenger.broken
 org.thunderdog.challegram
+it.belloworld.mercurygram
