@@ -42,9 +42,9 @@ jobs:
           # Build inline array yml
           {
             printf "include-package: [ "
-            paste -sd',' output/clean.txt | sed 's/\([^,]*\)/"\1"/g'
+            paste -sd',' output/clean.txt | sed 's/\([^,]*\)/"\1"/g' | tr -d '\n'
             printf " ]\n"
-          } > foreign-android-apps/include-android-apps-tun-inline.yml
+          } > foreign-android-apps/include-android-apps-inline.yml
 
       - name: Show result
         run: |
