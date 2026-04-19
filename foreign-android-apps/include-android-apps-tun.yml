@@ -41,6 +41,7 @@ include-package:
 - com.sec.android.app.sbrowser
 - com.snapchat.android
 - com.spotify.music
+- com.supercell.brawlstars
 - com.surfshark.vpnclient.android
 - com.tinder
 - com.twitter.android
