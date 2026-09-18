@@ -5,3 +5,4 @@ com.whatsapp
 com.whatsapp.w4b
 org.thoughtcrime.securesms
 com.viber.voip
+im.molly.app
