@@ -61,6 +61,7 @@ include-package:
 - de.tutao.tutanota
 - de.web.mobile.android.mail
 - deezer.android.app
+- im.molly.app
 - io.ente.photos.independent
 - io.filen.app
 - io.meduza.meduza
@@ -72,8 +73,10 @@ include-package:
 - net.thunderbird.android
 - org.mozilla.firefox
 - org.telegram.messenger
+- org.telegram.messenger.beta
 - org.telegram.messenger.web
 - org.thoughtcrime.securesms
 - org.thunderdog.challegram
 - org.torproject.torbrowser
 - proton.android.pass
+- watch.kino
