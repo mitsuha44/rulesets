@@ -7,3 +7,4 @@ com.amazon.avod.thirdpartyclient
 com.wbd.stream
 com.disney.disneyplus
 com.kinopub
+watch.kino
