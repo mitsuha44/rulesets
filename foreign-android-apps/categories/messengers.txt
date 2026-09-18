@@ -1,5 +1,6 @@
 org.telegram.messenger
 org.telegram.messenger.web
+org.telegram.messenger.beta
 com.whatsapp
 com.whatsapp.w4b
 org.thoughtcrime.securesms
