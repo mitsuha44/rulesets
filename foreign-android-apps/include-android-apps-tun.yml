@@ -1,4 +1,5 @@
 include-package:
+- ai.mistral.chat
 - ai.perplexity.app.android
 - ai.x.grok
 - app.hiddify.com
@@ -28,6 +29,7 @@ include-package:
 - com.figma.mirror
 - com.google.android.apps.bard
 - com.google.android.apps.credentialmanager
+- com.google.android.apps.labs.language.tailwind
 - com.google.android.apps.tachyon
 - com.google.android.apps.youtube.creator
 - com.google.android.apps.youtube.kids
@@ -41,6 +43,7 @@ include-package:
 - com.lastpass.lpandroid
 - com.linkedin.android
 - com.media.zona
+- com.microsoft.copilot
 - com.microsoft.office.officehubrow
 - com.microsoft.office.outlook
 - com.netflix.mediaclient
