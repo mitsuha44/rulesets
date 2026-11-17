@@ -3,6 +3,7 @@ org.telegram.messenger.web
 org.telegram.messenger.beta
 com.whatsapp
 com.whatsapp.w4b
+com.facebook.orca
 org.thoughtcrime.securesms
 com.viber.voip
 im.molly.app
