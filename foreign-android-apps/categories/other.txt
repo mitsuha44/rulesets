@@ -1,0 +1,2 @@
+com.linkedin.android
+com.google.android.apps.tachyon
