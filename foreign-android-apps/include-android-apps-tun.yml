@@ -1,6 +1,7 @@
 include-package:
 - ai.perplexity.app.android
 - ai.x.grok
+- app.hiddify.com
 - app.vanadium.browser
 - app.vanadium.webview
 - ch.protonmail.android
@@ -43,6 +44,7 @@ include-package:
 - com.nordvpn.android
 - com.onepassword.android
 - com.openai.chatgpt
+- com.psiphon3
 - com.reddit.frontpage
 - com.roblox.client
 - com.sec.android.app.sbrowser
@@ -52,6 +54,7 @@ include-package:
 - com.surfshark.vpnclient.android
 - com.tinder
 - com.twitter.android
+- com.v2ray.ang
 - com.viber.voip
 - com.vivaldi.browser
 - com.wbd.stream
@@ -81,13 +84,17 @@ include-package:
 - net.mullvad.mullvadvpn
 - net.thunderbird.android
 - network.loki.messenger
+- org.amnezia.vpn
+- org.getlantern.lantern
 - org.joinmastodon.android
 - org.mozilla.firefox
+- org.outline.android.client
 - org.telegram.messenger
 - org.telegram.messenger.beta
 - org.telegram.messenger.web
 - org.thoughtcrime.securesms
 - org.thunderdog.challegram
+- org.torproject.android
 - org.torproject.torbrowser
 - proton.android.pass
 - watch.kino
