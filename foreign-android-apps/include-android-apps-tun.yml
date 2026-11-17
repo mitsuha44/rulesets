@@ -17,6 +17,8 @@ include-package:
 - com.duckduckgo.mobile.android
 - com.ecosia.android
 - com.expressvpn.vpn
+- com.facebook.katana
+- com.facebook.lite
 - com.google.android.apps.bard
 - com.google.android.apps.credentialmanager
 - com.google.android.apps.youtube.creator
