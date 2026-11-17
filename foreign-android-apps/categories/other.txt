@@ -1,2 +1,9 @@
 com.linkedin.android
 com.google.android.apps.tachyon
+notion.id
+com.figma.mirror
+com.canva.editor
+com.crunchyroll.crunchyroid
+com.supercell.clashofclans
+com.supercell.clashroyale
+com.supercell.hayday
