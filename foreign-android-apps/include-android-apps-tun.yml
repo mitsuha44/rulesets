@@ -19,6 +19,7 @@ include-package:
 - com.expressvpn.vpn
 - com.facebook.katana
 - com.facebook.lite
+- com.facebook.orca
 - com.google.android.apps.bard
 - com.google.android.apps.credentialmanager
 - com.google.android.apps.youtube.creator
