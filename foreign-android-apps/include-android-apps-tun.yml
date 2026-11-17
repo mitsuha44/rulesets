@@ -5,6 +5,8 @@ include-package:
 - app.vanadium.webview
 - ch.protonmail.android
 - ch.protonvpn.android
+- ch.threema.app
+- chat.simplex.app
 - com.amazon.avod.thirdpartyclient
 - com.android.chrome
 - com.anthropic.claude
@@ -56,6 +58,7 @@ include-package:
 - com.whatsapp
 - com.whatsapp.w4b
 - com.windscribe.vpn
+- com.wire
 - com.x8bit.bitwarden
 - com.yahoo.mobile.client.android.mail
 - com.zhiliaoapp.musically
@@ -67,6 +70,7 @@ include-package:
 - de.web.mobile.android.mail
 - deezer.android.app
 - im.molly.app
+- im.vector.app
 - io.ente.photos.independent
 - io.filen.app
 - io.meduza.meduza
@@ -76,6 +80,8 @@ include-package:
 - nekox.messenger.broken
 - net.mullvad.mullvadvpn
 - net.thunderbird.android
+- network.loki.messenger
+- org.joinmastodon.android
 - org.mozilla.firefox
 - org.telegram.messenger
 - org.telegram.messenger.beta
@@ -85,3 +91,4 @@ include-package:
 - org.torproject.torbrowser
 - proton.android.pass
 - watch.kino
+- xyz.blueskyweb.app
