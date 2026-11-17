@@ -22,6 +22,7 @@ include-package:
 - com.facebook.orca
 - com.google.android.apps.bard
 - com.google.android.apps.credentialmanager
+- com.google.android.apps.tachyon
 - com.google.android.apps.youtube.creator
 - com.google.android.apps.youtube.kids
 - com.google.android.apps.youtube.music
@@ -32,6 +33,7 @@ include-package:
 - com.instagram.barcelona
 - com.kinopub
 - com.lastpass.lpandroid
+- com.linkedin.android
 - com.media.zona
 - com.microsoft.office.officehubrow
 - com.microsoft.office.outlook
