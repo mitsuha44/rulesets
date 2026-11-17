@@ -7,3 +7,10 @@ com.facebook.orca
 org.thoughtcrime.securesms
 com.viber.voip
 im.molly.app
+im.vector.app
+chat.simplex.app
+network.loki.messenger
+ch.threema.app
+com.wire
+xyz.blueskyweb.app
+org.joinmastodon.android
