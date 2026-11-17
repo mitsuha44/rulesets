@@ -4,3 +4,10 @@ com.nordvpn.android
 com.expressvpn.vpn
 com.surfshark.vpnclient.android
 com.windscribe.vpn
+org.torproject.android
+com.psiphon3
+org.outline.android.client
+org.amnezia.vpn
+app.hiddify.com
+com.v2ray.ang
+org.getlantern.lantern
