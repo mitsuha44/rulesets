@@ -6,3 +6,5 @@ com.reddit.frontpage
 com.twitter.android
 com.discord
 com.snapchat.android
+com.facebook.katana
+com.facebook.lite
